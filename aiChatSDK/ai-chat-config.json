@@ -1,5 +1,5 @@
 {
-  "sdkUrl": "http://10.60.132.55:7108/sdk/ai-chat-sdk.min.js",
+  "sdkUrl": "https://cdn.jsdelivr.net/gh/mabinogi81/cdn/aiChatSDK/ai-chat-sdk.min.js",
   "apiBaseUrl": "http://10.60.132.55:7108",
   "mainWindowUrl": "http://10.60.132.55:7108/chat",
   "position": "bottom-right",
