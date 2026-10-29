@@ -1,0 +1,19 @@
+{
+  "sdkUrl": "http://10.60.132.55:7108/sdk/ai-chat-sdk.min.js",
+  "apiBaseUrl": "http://10.60.132.55:7108",
+  "mainWindowUrl": "http://10.60.132.55:7108/chat",
+  "position": "bottom-right",
+  "width": 420,
+  "height": 640,
+  "title": "AI智能助手",
+  "theme": "light",
+  "offsetX": 20,
+  "offsetY": 20,
+  "linkHandlers": {
+    "a-system": { "action": "open", "target": "_blank" },
+    "h5": { "action": "open", "target": "_blank" },
+    "http": { "action": "open", "target": "_blank" },
+    "https": { "action": "open", "target": "_blank" },
+    "uniapp": { "action": "redirect" }
+  }
+}
